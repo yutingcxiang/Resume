@@ -1,21 +1,21 @@
 # Site
-repository: https://github.com/yutingcxiang/resume
+repository: yutingcxiang/resume
 # favicon: images/favicon.ico
 
 # Personal info
 name: Christine Xiang
 title: Automation Engineer
 email: yutingcxiang@gmail.com
-website: https://yutingcxiang.github.io/resume/
+# website: https://yutingcxiang.github.io/resume/
 
 # Social links
 # twitter_username: facespics
-github_username:  sproogen
+github_username:  yutingcxiang
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: chillwildlife
-linkedin_username: jameswgrant
+linkedin_username: yutingcxiang
 # pinterest_username: jekyll
 # youtube_username: globalmtb
 # googleplus_username: +jekyll
@@ -26,7 +26,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Christine and I'm an automation engineer with expertise in data analytics, databases, and web development.
 
-  I am most skilled in: <mark>JavaScript</mark> and <mark>analyzing data</mark>
+  I am most skilled in: <mark>JavaScript</mark> and <mark>Data Analysis</mark>
 
 # Projects Section
 # projects_title: Projects

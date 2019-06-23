@@ -1,9 +1,38 @@
 - layout: left
-  company: The Boring Company
-  link: boringcompany.com
-  job_title: Senior Network System Administrator
-  dates: November 2017 - Present
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  company: Carver Edison
+  link: New York, NY
+  job_title: Automation Engineer
+  dates: Feb 2019 - May 2019
+  # quote: >
   description: | # this will include new lines to allow paragraphs
-    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+    Build and deployed an enrollment interface built with React, Redux, Flask, Nginx, and Docker from the ground up in a team of 3 within 6 weeks for employees to sign up for their company’s ESPP offering. 
+
+    Designed and developed a CMS/admin interface for automatically generating customized microsites for the sales team, updating the enrollment site content and assets for different clients, and providing a reporting dashboard for internal and external use. 
+
+- layout: left
+  company: Global X 
+  link: New York, NY
+  job_title: Marketing Analyst
+  dates: Aug 2017 - Apr 2018
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Launched and optimized digital marketing campaigns for conversions (with a focus on paid search, video, native, and digital display), tracked monthly KPIs, updated distribution lists, and identified new potential advertising partnerships.
+
+
+- layout: left
+  company: Chief Media 
+  link: New York, NY
+  job_title: Data Analyst
+  dates: Nov 2015 - Jul 2017
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Created solutions in Excel and SQL for automating weekly media reporting, identification of which channels drove visits and orders, lift calculations for attribution across various marketing tactics, and managed client accounts and results within databases.
+
+- layout: left
+  company: IBM 
+  link: Washington, D.C. 
+  job_title: Consultant
+  dates: Nov 2015 - Jul 2017
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Supported the client's SAP ERP system by assisting developers with quarterly system upgrades, defect flagging and resolution, QA of existing and new project implementations, ensured functional test plans and design specifications are on track.
