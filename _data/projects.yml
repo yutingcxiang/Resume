@@ -1,8 +1,29 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Newsfeedr
+  link: https://newsfeedr-app.herokuapp.com/
+  github: yutingcxiang/newsfeedr
+  # quote: >
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    A Full Stack React/Redux news feed application built with a Rails API backend. 
+      Developed frontend and UI with React and Semantic UI.
+      Created Rails API backend for fetching News API data using the Faraday gem. 
+      Managed state changes and async requests with use of Redux and thunk middleware.
+
+- layout: top-middle
+  name: Node Weather
+  link: https://react-node-weather-app.herokuapp.com/
+  github: yutingcxiang/weather-app
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Built API with Express.js for retrieving API data and updating weather every 15 minutes. 
+    Incorporates media queries and responsive design for handling multiple screen sizes.
+
+- layout: top-middle
+  name: Node Weather
+  link: https://invest2-app.herokuapp.com/
+  github: yutingcxiang/invest_2
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Pulled IEX API data for real-time stock quotes.
+    Implemented OAuth for secure user login via Google API authentication.
+    Incorporated jQuery and AJAX for creating interactive pages.
