@@ -38,13 +38,21 @@ about_content: | # this will include new lines to allow paragraphs
 # educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: My Skillset
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in web development and data analysis, some of my other interests and hobbies are:
-   - Cooking
-   - Gaming
-   - Reading magazines
-   - Trading stocks
+
+  Languages​ - JavaScript, Ruby, Python
+
+  Databases - SQLite, PostgreSQL, MongoDB, SQL Server
+
+  Frameworks - ​Rails, Sinatra, jQuery, React, Redux, Express, Node, Flask
+
+  Web Development - ​​HTML5/CSS3, Bootstrap, Sass, Git, Heroku, AWS, Jira, Agile, Docker 
+
+  Analytics - Microsoft Excel, Power BI, Tableau, R
+
+  Marketing​ - Google Analytics/Adwords, HubSpot, SalesForce
+
 
 
 # Footer
