@@ -41,17 +41,17 @@ about_content: | # this will include new lines to allow paragraphs
 more_title: My Skillset
 more_content: | # this will include new lines to allow paragraphs
 
-  Languages​ - JavaScript, Ruby, Python
+  <mark>Languages​</mark> - JavaScript, Ruby, Python
 
-  Databases - SQLite, PostgreSQL, MongoDB, SQL Server
+  <mark>Databases</mark> - SQLite, PostgreSQL, MongoDB, SQL Server
 
-  Frameworks - ​Rails, Sinatra, jQuery, React, Redux, Express, Node, Flask
+  <mark>Frameworks</mark> - ​Rails, Sinatra, jQuery, React, Redux, Express, Node, Flask
 
-  Web Development - ​​HTML5/CSS3, Bootstrap, Sass, Git, Heroku, AWS, Jira, Agile, Docker 
+  <mark>Web Development</mark> - ​​HTML5/CSS3, Bootstrap, Sass, Git, Heroku, AWS, Jira, Agile, Docker 
 
-  Analytics - Microsoft Excel, Power BI, Tableau, R
+  <mark>Analytics</mark> - Microsoft Excel, Power BI, Tableau, R
 
-  Marketing​ - Google Analytics/Adwords, HubSpot, SalesForce
+  <mark>Marketing​</mark> - Google Analytics/Adwords, HubSpot, SalesForce
 
 
 
