@@ -2,28 +2,27 @@
   name: Newsfeedr
   link: https://newsfeedr-app.herokuapp.com/
   github: yutingcxiang/newsfeedr
-  # quote: >
+  quote: A simple weather app built with React and Node.​ ​
   description: | # this will include new lines to allow paragraphs
-    A Full Stack React/Redux news feed application built with a Rails API backend. 
-      Developed frontend and UI with React and Semantic UI.
-      Created Rails API backend for fetching News API data using the Faraday gem. 
-      Managed state changes and async requests with use of Redux and thunk middleware.
+      + Developed frontend and UI with React and Semantic UI.
+      + Created Rails API backend for fetching News API data using the Faraday gem. 
+      + Managed state changes and async requests with use of Redux and thunk middleware.
 
 - layout: top-middle
   name: Node Weather
   link: https://react-node-weather-app.herokuapp.com/
   github: yutingcxiang/weather-app
-  # quote: >
+  quote:  A Rails and Javascript platform for investors to track and share their investments. 
   description: | # this will include new lines to allow paragraphs
-    Built API with Express.js for retrieving API data and updating weather every 15 minutes. 
-    Incorporates media queries and responsive design for handling multiple screen sizes.
+   + Built API with Express.js for retrieving API data and updating weather every 15 minutes. 
+   + Incorporates media queries and responsive design for handling multiple screen sizes.
 
 - layout: top-middle
-  name: Node Weather
+  name: i.nvest
   link: https://invest2-app.herokuapp.com/
-  github: yutingcxiang/invest_2
-  # quote: >
+  github: yutingcxiang/invest_2 
+  quote:  A Rails and Javascript platform for investors to track and share their investments. 
   description: | # this will include new lines to allow paragraphs
-    Pulled IEX API data for real-time stock quotes.
-    Implemented OAuth for secure user login via Google API authentication.
-    Incorporated jQuery and AJAX for creating interactive pages.
+    + Pulled IEX API data for real-time stock quotes.
+    + Implemented OAuth for secure user login via Google API authentication.
+    + Incorporated jQuery and AJAX for creating interactive pages.

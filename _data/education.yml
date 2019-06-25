@@ -1,4 +1,12 @@
 - layout: left
+  name: Flatiron School
+  dates: 2018 - 2018
+  qualification: Full Stack Web Development
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+    Studied a variety of web development languages, frameworks, and libraries in-depth, including Javascript, Ruby, React, Redux, Ruby on Rails, SQL, ActiveRecord, Git, HTML, and CSS.
+
+- layout: left
   name: Carnegie Mellon University
   dates: 2010 - 2014
   qualification: Economics and Business Administration
@@ -12,10 +20,3 @@
     Taiwanese Student Association,
     Big Straw Asian Interest Magazine
 
-- layout: left
-  name: Flatiron School
-  dates: 2018 - 2018
-  qualification: Full Stack Web Development
-  # quote: >
-  description: | # this will include new lines to allow paragraphs
-    Studied a variety of web development languages, frameworks, and libraries in-depth, including Javascript, Ruby, React, Redux, Ruby on Rails, SQL, ActiveRecord, Git, HTML, and CSS.
