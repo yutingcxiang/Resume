@@ -26,7 +26,6 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Christine and I'm an automation engineer with expertise in data analytics, databases, and web development.
 
-  I am most skilled in: <mark>JavaScript</mark> and <mark>Data Analysis</mark>
 
 # Projects Section
 # projects_title: Projects

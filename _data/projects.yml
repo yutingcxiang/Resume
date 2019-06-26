@@ -1,28 +1,33 @@
-- layout: top-middle
+- layout: left
   name: Newsfeedr
-  link: https://newsfeedr-app.herokuapp.com/
+  link: http://bit.ly/newsfeedr
   github: yutingcxiang/newsfeedr
-  quote: A simple weather app built with React and Node.​ ​
+#   quote: ""
   description: | # this will include new lines to allow paragraphs
+      A Rails and Javascript platform for investors to track and share their investments.
       + Developed frontend and UI with React and Semantic UI.
       + Created Rails API backend for fetching News API data using the Faraday gem. 
       + Managed state changes and async requests with use of Redux and thunk middleware.
 
-- layout: top-middle
+- layout: left
   name: Node Weather
-  link: https://react-node-weather-app.herokuapp.com/
+  link: http://bit.ly/node-weather
   github: yutingcxiang/weather-app
-  quote:  A Rails and Javascript platform for investors to track and share their investments. 
+#   quote: ""
   description: | # this will include new lines to allow paragraphs
-   + Built API with Express.js for retrieving API data and updating weather every 15 minutes. 
-   + Incorporates media queries and responsive design for handling multiple screen sizes.
+      A simple weather app built with React and Node.​
+      + Built API with Express.js for retrieving API data and updating weather every 15 minutes. 
+      + Incorporates media queries and responsive design for handling multiple screen sizes.
 
-- layout: top-middle
+- layout: left
   name: i.nvest
-  link: https://invest2-app.herokuapp.com/
+  link: http://bit.ly/invest-app
   github: yutingcxiang/invest_2 
-  quote:  A Rails and Javascript platform for investors to track and share their investments. 
+#   quote: ""
   description: | # this will include new lines to allow paragraphs
-    + Pulled IEX API data for real-time stock quotes.
-    + Implemented OAuth for secure user login via Google API authentication.
-    + Incorporated jQuery and AJAX for creating interactive pages.
+      A Rails and Javascript platform for investors to track and share their investments. 
+      + Pulled IEX API data for real-time stock quotes.
+      + Implemented OAuth for secure user login via Google API authentication.
+      + Incorporated jQuery and AJAX for creating interactive pages.
+
+
