@@ -5,9 +5,10 @@
   dates: Feb 2019 - May 2019
   # quote: >
   description: | # this will include new lines to allow paragraphs
-    Build and deployed an enrollment interface built with React, Redux, Flask, Nginx, and Docker from the ground up in a team of 3 within 6 weeks for employees to sign up for their company’s ESPP offering. 
+    + Deployed an enrollment interface built with React, Redux, Flask, Nginx, and Docker from the ground up to AWS on a team of 3, in 6 weeks for employees to sign up for their company’s ESPP offering.
+    + Implemented routing, responsive design, error handling, progress tracking, API requests, and controlled forms in React and Redux.
+    + Designed and developed an CMS/ admin interface with capabilities for updating static content, providing up-to-date reporting dashboards and creating customized and templated microsites.
 
-    Designed and developed a CMS/admin interface for automatically generating customized microsites for the sales team, updating the enrollment site content and assets for different clients, and providing a reporting dashboard for internal and external use. 
 
 - layout: left
   company: Global X 
@@ -16,7 +17,9 @@
   dates: Aug 2017 - Apr 2018
   # quote: >
   description: | # this will include new lines to allow paragraphs
-    Launched and optimized digital marketing campaigns for conversions (with a focus on paid search, video, native, and digital display), tracked monthly KPIs, updated distribution lists, and identified new potential advertising partnerships.
+    + Specialized in launching, creating, and optimizing paid search, video, native display, and OOH campaigns with a focus on driving brand awareness and conversions for target audiences.
+    + Tracked and analyzed HubSpot CRM lists for correlations between sales and marketing initiatives and evaluated new potential advertiser/publisher partnerships for promoting  brand and blog content. 
+    + Maintained KPI dashboards, campaign budgets, distribution lists, social media accounts, and content updates for the website and blog.
 
 
 - layout: left
@@ -26,7 +29,10 @@
   dates: Nov 2015 - Jul 2017
   # quote: >
   description: | # this will include new lines to allow paragraphs
-    Created solutions in Excel and SQL for automating weekly media reporting, identification of which channels drove visits and orders, lift calculations for attribution across various marketing tactics, and managed client accounts and results within databases.
+    + Standardized weekly media files and client reports for multiple campaign reports in Excel through macros.
+    + Managed SQL Server databases, SSIS jobs, and load tables for all active campaigns and flagged any inconsistencies in data. 
+    + Worked alongside developer to create, test, and implement a custom lift analysis program for proper media allocation, which also tracks visits that match to orders and revenue.
+
 
 - layout: left
   company: IBM 
@@ -35,4 +41,5 @@
   dates: Nov 2015 - Jul 2017
   # quote: >
   description: | # this will include new lines to allow paragraphs
-    Supported the client's SAP ERP system by assisting developers with quarterly system upgrades, defect flagging and resolution, QA of existing and new project implementations, ensured functional test plans and design specifications are on track.
+    + Improved a public sector client’s SAP system to better automate system reporting during quarterly upgrades and to better handle supply chain/procurement order submissions.
+    + Supported 5 developers with help desk tickets by locating defects and performing QA on resolutions before deployment to production.
