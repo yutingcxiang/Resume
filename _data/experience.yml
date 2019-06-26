@@ -7,7 +7,7 @@
   description: | # this will include new lines to allow paragraphs
     + Deployed an enrollment interface built with React, Redux, Flask, Nginx, and Docker from the ground up to AWS on a team of 3, in 6 weeks for employees to sign up for their company’s ESPP offering.
     + Implemented routing, responsive design, error handling, progress tracking, API requests, and controlled forms in React and Redux.
-    + Designed and developed an CMS/ admin interface with capabilities for updating static content, providing up-to-date reporting dashboards and creating customized and templated microsites.
+    + Designed and developed an CMS/admin interface with capabilities for updating static content, providing up-to-date reporting dashboards and creating customized and templated microsites.
 
 
 - layout: left
